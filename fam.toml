@@ -1,0 +1,7 @@
+[crate]
+	bin = "formatter"
+[deps]
+	display = { git = "https://github.com/myfamilyorg/display" }
+	vec = { git = "https://github.com/myfamilyorg/vec" }
+	macros = { git = "https://github.com/myfamilyorg/macros" }
+	str_ext = { git = "https://github.com/myfamilyorg/str_ext" }
